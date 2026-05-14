@@ -10,7 +10,7 @@ const App = () => {
     <div className=''>
       <div>
         <h1>Home</h1>
-        <p>Hello home</p>
+        
         
         
         <Routes>
