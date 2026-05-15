@@ -9,7 +9,7 @@ const App = () => {
   return (
     <div className=''>
       <div>
-        <h1>Home</h1>
+        
         
         
         
