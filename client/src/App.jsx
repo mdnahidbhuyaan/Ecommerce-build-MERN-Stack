@@ -9,7 +9,8 @@ const App = () => {
   return (
     <div className=''>
       <div>
-        <h1></h1>
+        <h1>Hello home </h1>
+
         
         
         
