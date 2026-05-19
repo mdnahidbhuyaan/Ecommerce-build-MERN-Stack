@@ -10,7 +10,7 @@ const App = () => {
     <div className=''>
       <div>
         <h1>Hello home </h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A, aliquam ad doloribus eius expedita officia laudantium magni cum ullam quae?</p>
+        
         
 
         
