@@ -9,7 +9,7 @@ const App = () => {
   return (
     <div className=''>
       <div>
-        <h1>Hello home  hosel sljfpo s;l;po sfjp lkjhhgytrfdsadff ggfttyh</h1>
+        <h1>Hello home  hosel sljfpo s;l;po sfjp</h1>
         
         
 
