@@ -9,18 +9,6 @@ const App = () => {
   return (
     <div className=''>
       <div>
-        
-        
-        
-  
-      
-        
-        
-        
-
-        
-        
-        
         <Routes>
           <Route path='/' element={<Home />} />
           <Route path='/product' element={<Product/>} />
