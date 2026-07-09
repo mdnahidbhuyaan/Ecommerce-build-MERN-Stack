@@ -12,6 +12,7 @@ const App = () => {
 
         <h1>njgyhgmm</h1>
         <p>This g</p>
+        <h1>Home addr</h1>
         
         <Routes>
           <Route path='/' element={<Home />} />
